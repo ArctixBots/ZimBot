@@ -1,6 +1,6 @@
 {
   "name": "zimbot-v4",
-  "version": "4.0.1",
+  "version": "1.0.0",
   "description": "Multi device wa bot created by Zim Bot Inc.",
   "main": "index.js",
   "type": "commonjs",
@@ -11,7 +11,7 @@
   "keywords": [
     "termux",
     "whatsapp",
-    "2021",
+    "2022",
     "wabase-md",
     "base",
     "baileys-md",
@@ -92,10 +92,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zim-bot/zimbot-v4.git"
+    "url": "git+https://github.com/royce-b/zimbot.git"
   },
   "bugs": {
-    "url": "https://github.com/zim-bot/zimbot-v4/issues"
+    "url": "https://github.com/royce-b/zimbot/issues"
   },
-  "homepage": "https://github.com/zim-bot/zimbot-v4#readme"
+  "homepage": "https://github.com/royce-b/zimbot#readme"
 }
