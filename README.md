@@ -1,16 +1,16 @@
 <a href="https://youtu.be/KNu-gr2h7bo"><img src="https://img.shields.io/badge/Tutorial-Video-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtu.be/ww4z2m3uORU" /><br>
 
-# ZIM BOT V4
+### ZIM BOT V4 - MODIFIED
 
-## ``` This Script is for Everyone Don't sell it at high price ```
-## WATCH TUTORIAL NICELY DON'T SKIP [`YOUTUBE`](https://youtu.be/KNu-gr2h7bo)
+#### ``` This Script is for Everyone Don't sell it at high price ```
+#### WATCH TUTORIAL NICELY DON'T SKIP [`YOUTUBE`](https://youtu.be/KNu-gr2h7bo)
 
-##  ``` Are you Experiencing an error don't hesitate to ask me ``` [`DRIPS`](https://wa.me/+447441437150)
+####  ``` Are you Experiencing an error don't hesitate to ask me ``` [`DRIPS`](https://wa.me/+447441437150)
  WhatsApp with so Many features using multi device  [`BAILEYS`](https://github.com/adiwajshing/baileys)
  
  <a href="https://youtu.be/KNu-gr2h7bo"><img src="https://img.shields.io/badge/Tutorial-Video-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtu.be/ww4z2m3uORU" /><br>
  
- ## ```Donate Me```
+#### ```Donate Me```
 
 - [`Paypal`](https://www.paypal.me/zimbotinc)
  </a>
@@ -40,6 +40,7 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 <img src="https://fontmeme.com/permalink/220116/0c42dc0b64931810388ba399da55e927.png" alt="backwoods-logo-font" border="0"></a>  
 
  ##  > THIS BOT CODED BY DRIPS MEMES ZIM BOT INC 
+ ##  > MODIFIED BY KRAKINZLAB - ROYCE BOB EL WILLIE
 
 
 ## >  FOLLOW STEPS BELOW FOR INSTALLATION
@@ -55,9 +56,9 @@ apt install git
 
 apt update && apt upgrade
 
-git clone https://github.com/zim-bot/zimbot-v4
+git clone https://github.com/Royce-B/ZimBot
  
-cd zimbot-v4
+cd ZimBot
 
  
 rm -r session.json
@@ -75,7 +76,7 @@ echo scan the qr code and enjoy bot
 
 ## MY PERSONAL CHAT
 
-# [![WhatsApp Group](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/27634090203)
+# [![WhatsApp Group](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/254718241545)
 
 
 # > THANKS FOR CHOOSING ZIM BOT WE APPRECIATE YOU FOR YOUR SUPPORT
